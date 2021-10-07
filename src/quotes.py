@@ -335,5 +335,22 @@ quote_dict = {
             "quote": "Kept you waiting, huh?",
             "game": "Metal Gear Solid 5: Ground Zeroes",
         },
+        {
+            "quote": "The moment you close your eyes on the battlefield is the moment you never open them again.",
+            "game": "Metal Gear Solid 3: Snake Eater",
+        },
+        {
+            "quote": "To say that everything is permitted is to understand that we are the architects of our actions and that we must live with our consequences, whether glorious or tragic.",
+            "game": "Assassin's Creed: Revelations",
+        },
+        {
+            "quote": "Life. Dreams. Hope. Where do they come from? Where do they go? Such meaningless things...",
+            "game": "Final Fantasy VI",
+        },
+        {
+            "quote": "Your moves are miscalculated and underestimating your enemies—your biggest mistake. You will find the will of a single man can be broken.",
+            "game": "Call Of Duty: Modern Warfare 3",
+        },
+
     ]
 }
