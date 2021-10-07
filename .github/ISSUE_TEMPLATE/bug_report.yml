@@ -1,0 +1,21 @@
+name: Bug report
+description: Report unexpected behavior
+labels: [bug]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Issue description
+      description: A clear description of the issue.
+      placeholder: |
+        Steps to reproduce the issue.
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      - required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Possible solution
+      description: A clear solution you have considered.
