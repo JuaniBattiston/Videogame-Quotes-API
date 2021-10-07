@@ -38,5 +38,6 @@ print(req_content["game"])
 ### This project is for educational purposes only. The sources from which the information was extracted will be attached here:
 
 + #####  [The Top 100 Video Game Quotes of All Time -  Bryan Wirtz](https://www.gamedesigning.org/gaming/video-game-quotes/)
++ #####  [Top 101 Inspirational Video Game Quotes All Young Gamers Should Read](https://kidadl.com/articles/top-inspirational-video-game-quotes-all-young-gamers-should-read)
 
 **Feel free to contribute to the project by opening an issue!**
