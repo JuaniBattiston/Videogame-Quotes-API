@@ -351,6 +351,10 @@ quote_dict = {
             "quote": "Your moves are miscalculated and underestimating your enemies—your biggest mistake. You will find the will of a single man can be broken.",
             "game": "Call Of Duty: Modern Warfare 3",
         },
+        {
+            "quote": "Death is inevitable. Our fear of it makes us play safe, blocks out emotion. It's a losing game, without passion you are already dead.",
+            "game": "Max Payne 2: The Fall Of Max Payne"
+        }
 
     ]
 }
