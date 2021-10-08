@@ -38,7 +38,8 @@ Feel free to contribute by opening an issue or pull request!
 
 ## Disclaimer
 
-This project is for educational purposes only.
+This project is for educational purposes only. The maintainers and contributors
+of this project claim no ownership or credit for the quotes listed.
 
 ## Sources
 
