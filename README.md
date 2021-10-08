@@ -49,3 +49,5 @@ Quotes have been retieved from the following sources:
   [The Top 100 Video Game Quotes of All Time -  Bryan Wirtz](https://www.gamedesigning.org/gaming/video-game-quotes/)
 -
   [Top 101 Inspirational Video Game Quotes All Young Gamers Should Read](https://kidadl.com/articles/top-inspirational-video-game-quotes-all-young-gamers-should-read)
+-
+  [Random Video Game Quote Generator](https://codepen.io/AlexDr7/pen/LyOEBv)
