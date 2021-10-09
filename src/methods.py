@@ -14,7 +14,7 @@ def home() -> Dict:
         "API": "Videogame quotes API",
         "version": "1.0.0",
         "author": "Batucho",
-        "repository-url": "placeholder",
+        "repository-url": "https://github.com/Batucho/Videogame-Quotes-API",
     }
 
 
