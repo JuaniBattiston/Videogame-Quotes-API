@@ -53,3 +53,5 @@ Quotes have been retieved from the following sources:
   [Random Video Game Quote Generator](https://codepen.io/AlexDr7/pen/LyOEBv)
 -
   [Inspirational Gamer Quotes](https://inspirationfeed.com/gamer-quotes/)
+-
+  [The 100 best video game quotes of all time (Up to page 5)](https://www.gamesradar.com/au/best-video-game-quotes-all-time)

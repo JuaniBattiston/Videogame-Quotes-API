@@ -418,7 +418,74 @@ quote_dict = {
         {
             "quote": "So, I guess I’d become what they wanted me to be, a killer. Some rent-a-clown with a gun who puts holes in other bad guys. Well, that’s what they had paid for, so in the end, that’s what they got. Say what you want about Americans, but we understand capitalism. You buy yourself a product and you get what you pay for, and these chumps had paid for some angry gringo without the sensibilities to know right from wrong. Here I was about to execute this poor bastard like some dime store angel of death, and I realized they were correct, I wouldn’t know right from wrong if one of them was helping the poor and the other was banging my sister…",
             "game": "Max Payne 3"
-        }
 
+            "quote": "Excellence isn’t an art, it’s a habit. We are what we repeatedly do.",
+            "game": "Furi"
+        },
+        {
+            "quote": "Even in dark times, we cannot relinquish the things that make us human.",
+            "game": "Metro 2033"
+        },
+        {
+            "quote": "Get over here!",
+            "game": "Mortal Kombat"
+        },
+        {
+            "quote": "Wanting something does not give you the right to have it.",
+            "game": "Assassin’s Creed 2"
+        },
+        {
+            "quote": "How many are there in you? Whose hopes and dreams do you encompass? Could you but see the eyes in your own, the minds in your mind, you would see how much we share.",
+            "game": "Half Life 2"
+        },
+        {
+            "quote": "It’s a funny thing, ambition. It can take one to sublime heights or harrowing depths. And sometimes they are one and the same.",
+            "game": "Dishonored"
+        },
+        {
+            "quote": "No gods or kings. Only man.",
+            "game": "Bioshock"
+        },
+        {
+            "quote": "Life is cruel. Of this I have no doubt. One can only hope that one leaves behind a lasting legacy. But so often, the legacies we leave behind...are not the ones we intended.",
+            "game": "Gears of War 2"
+        },
+        {
+            "quote": "It's easy to forget what a sin is in the middle of a battlefield.",
+            "game": "Metal Gear Solid"
+        },
+        {
+            "quote": "The courage to walk into the Darkness, but strength to return to the Light.",
+            "game": "Destiny"
+        },
+        {
+            "quote": "Who are you, that do not know your history?",
+            "game": "Fallout New Vegas"
+        },
+        {
+            "quote": "Don't wish it were easier, wish you were better.",
+            "game": "Animal Crossing"
+        },
+        {
+            "quote": "Trust me.",
+            "game": "Titalfall 2"
+        },
+        {
+            "quote": "If history only remembers one in a thousands of us, then the future will be filled with stories of who we were and what we did.",
+            "game": "Battlefield 1"
+        },
+                {
+            "quote": "We're made up of thousands of parts with thousands of functions all working in tandem to keep us alive. Yet if only one part of our imperfect machine fails, life fails. It makes one realize how fragile, how flawed we are.",
+            "game": "Elder Scrolls V: Skyrim"
+        },
+                {
+            "quote": "Often when we guess at others' motives, we reveal only our own.",
+            "game": "Destiny"
+        },
+                {
+            "quote": "Life is all about resolve. Outcome is secondary.",
+            "game": "Okami"
+
+        }
     ]
 }
