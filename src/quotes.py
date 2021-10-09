@@ -354,6 +354,42 @@ quote_dict = {
         {
             "quote": "Death is inevitable. Our fear of it makes us play safe, blocks out emotion. It's a losing game, without passion you are already dead.",
             "game": "Max Payne 2: The Fall Of Max Payne"
+        },
+        {
+            "quote": "Ok",
+            "game": "League of Legends"
+        },
+        {
+            "quote": "Disguised Toast",
+            "game": "Hearthstone"
+        },
+        {
+            "quote": "I am Mal'Ganis. I am a turtle!",
+            "game": "Hearthstone"
+        },
+        {
+            "quote": "Bring me a bucket, and I'll show you a bucket!",
+            "game": "Borderlands 2"
+        },
+        {
+            "quote": "You know, sweetheart, if there's one thing I've learned, it's this: nobody knows what's gonna happen at the end of the line, so you might as well enjoy the trip.",
+            "game": "Grim Fandango"
+        },
+        {
+            "quote": "We all make choices in life, but in the end our choices make us.",
+            "game": "Bioshock"
+        },
+        {
+            "quote": "AAAAAAAAAAAAHHHRHGHHHGH thump",
+            "game": "Elder Scrolls III: Morrowind"
+        },
+        {
+            "quote": "You are here, and it's beautiful, and escaping isn't always something bad.",
+            "game": "Firewatch"
+        },
+        {
+            "quote": "Science isn't about why! It's about why not!",
+            "game": "Portal 2"
         }
 
     ]
