@@ -392,33 +392,74 @@ quote_dict = {
             "game": "Portal 2"
         },
         {
+
+            "quote": "Excellence isn’t an art, it’s a habit. We are what we repeatedly do.",
+            "game": "Furi"
+        },
+        {
+            "quote": "Even in dark times, we cannot relinquish the things that make us human.",
+            "game": "Metro 2033"
+        },
+        {
             "quote": "Get over here!",
             "game": "Mortal Kombat"
         },
         {
-            "quote": "We all make choices in life, but in the end our choices make us.",
+            "quote": "Wanting something does not give you the right to have it.",
+            "game": "Assassin’s Creed 2"
+        },
+        {
+            "quote": "How many are there in you? Whose hopes and dreams do you encompass? Could you but see the eyes in your own, the minds in your mind, you would see how much we share.",
+            "game": "Half Life 2"
+        },
+        {
+            "quote": "It’s a funny thing, ambition. It can take one to sublime heights or harrowing depths. And sometimes they are one and the same.",
+            "game": "Dishonored"
+        },
+        {
+            "quote": "No gods or kings. Only man.",
             "game": "Bioshock"
         },
         {
-            "quote": "What is better? To be born good or to overcome your evil nature through great effort?",
+            "quote": "Life is cruel. Of this I have no doubt. One can only hope that one leaves behind a lasting legacy. But so often, the legacies we leave behind...are not the ones we intended.",
+            "game": "Gears of War 2"
+        },
+        {
+            "quote": "It's easy to forget what a sin is in the middle of a battlefield.",
+            "game": "Metal Gear Solid"
+        },
+        {
+            "quote": "The courage to walk into the Darkness, but strength to return to the Light.",
+            "game": "Destiny"
+        },
+        {
+            "quote": "Who are you, that do not know your history?",
+            "game": "Fallout New Vegas"
+        },
+        {
+            "quote": "Don't wish it were easier, wish you were better.",
+            "game": "Animal Crossing"
+        },
+        {
+            "quote": "Trust me.",
+            "game": "Titalfall 2"
+        },
+        {
+            "quote": "If history only remembers one in a thousands of us, then the future will be filled with stories of who we were and what we did.",
+            "game": "Battlefield 1"
+        },
+                {
+            "quote": "We're made up of thousands of parts with thousands of functions all working in tandem to keep us alive. Yet if only one part of our imperfect machine fails, life fails. It makes one realize how fragile, how flawed we are.",
             "game": "Elder Scrolls V: Skyrim"
         },
-        {
-            "quote": "The right man in the wrong place can make all the difference in the world.",
-            "game": "Half-Life 2"
+                {
+            "quote": "Often when we guess at others' motives, we reveal only our own.",
+            "game": "Destiny"
         },
-        {
-            "quote": "Stand in the ashes of a trillion dead souls, and asks the ghosts if honor matters. The silence is your answer.",
-            "game": "Mass Effect 3"
-        },
-        {
-            "quote": "Bring me a bucket, and I'll show you a bucket!",
-            "game": "Borderlands 2"
-        },
-        {
-            "quote": "Wanting something does not give you the right to have it.",
-            "game": "Assassin’s Creed 2"
-        }
+                {
+            "quote": "Life is all about resolve. Outcome is secondary.",
+            "game": "Okami"
 
+        }
     ]
 }
