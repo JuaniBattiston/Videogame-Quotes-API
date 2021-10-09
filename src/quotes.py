@@ -458,6 +458,15 @@ quote_dict = {
                 {
             "quote": "Life is all about resolve. Outcome is secondary.",
             "game": "Okami"
+        },
+        {
+            "quote": "Graveyards are spooky and very dangerous. I'd watch your step, kid",
+            "game": "Terraria"
+        },
+        {
+            "quote": "It's cold and ominous around here. I feel something very evil calling out to me.",
+            "game": "Terraria"
         }
+        
     ]
 }
