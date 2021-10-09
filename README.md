@@ -1,6 +1,6 @@
 # Videogame Quotes API
 
-**A simple API project to retrieve videogame quotes**
+**A cool API to retrieve random videogame quotes**
 
 ```py
 import requests
