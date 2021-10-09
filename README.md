@@ -51,3 +51,5 @@ Quotes have been retieved from the following sources:
   [Top 101 Inspirational Video Game Quotes All Young Gamers Should Read](https://kidadl.com/articles/top-inspirational-video-game-quotes-all-young-gamers-should-read)
 -
   [Random Video Game Quote Generator](https://codepen.io/AlexDr7/pen/LyOEBv)
+-
+  [The 100 best video game quotes of all time (Up to page 5)](https://www.gamesradar.com/au/best-video-game-quotes-all-time)
