@@ -390,6 +390,30 @@ quote_dict = {
         {
             "quote": "Science isn't about why! It's about why not!",
             "game": "Portal 2"
+        },
+        {
+            "quote": "Get over here!",
+            "game": "Mortal Kombat"
+        },
+        {
+            "quote": "We all make choices in life, but in the end our choices make us.",
+            "game": "Bioshock"
+        },
+        {
+            "quote": "What is better? To be born good or to overcome your evil nature through great effort?",
+            "game": "Elder Scrolls V: Skyrim"
+        },
+        {
+            "quote": "The right man in the wrong place can make all the difference in the world.",
+            "game": "Half-Life 2"
+        },
+        {
+            "quote": "Stand in the ashes of a trillion dead souls, and asks the ghosts if honor matters. The silence is your answer.",
+            "game": "Mass Effect 3"
+        },
+        {
+            "quote": "Bring me a bucket, and I'll show you a bucket!",
+            "game": "Borderlands 2"
         }
 
     ]
