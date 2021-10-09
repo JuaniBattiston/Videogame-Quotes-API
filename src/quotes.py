@@ -414,6 +414,10 @@ quote_dict = {
         {
             "quote": "Bring me a bucket, and I'll show you a bucket!",
             "game": "Borderlands 2"
+        },
+        {
+            "quote": "Wanting something does not give you the right to have it.",
+            "game": "Assassin’s Creed 2"
         }
 
     ]
