@@ -52,4 +52,4 @@ Quotes have been retieved from the following sources:
 -
   [Random Video Game Quote Generator](https://codepen.io/AlexDr7/pen/LyOEBv)
 -
-  [Best Video Game Quotes of All Time - Games Radar](https://www.gamesradar.com/best-video-game-quotes-all-time/)
+  [Inspirational Gamer Quotes](https://inspirationfeed.com/gamer-quotes/)

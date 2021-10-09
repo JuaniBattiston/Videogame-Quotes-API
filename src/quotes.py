@@ -392,32 +392,32 @@ quote_dict = {
             "game": "Portal 2"
         },
         {
-            "quote": "Get over here!",
-            "game": "Mortal Kombat"
-        },
-        {
-            "quote": "We all make choices in life, but in the end our choices make us.",
-            "game": "Bioshock"
-        },
-        {
-            "quote": "What is better? To be born good or to overcome your evil nature through great effort?",
-            "game": "Elder Scrolls V: Skyrim"
-        },
-        {
-            "quote": "The right man in the wrong place can make all the difference in the world.",
-            "game": "Half-Life 2"
-        },
-        {
-            "quote": "Stand in the ashes of a trillion dead souls, and asks the ghosts if honor matters. The silence is your answer.",
+            "quote": "Stand amongst the ashes of a trillion dead souls and ask the ghosts if honor matters. The silence is your answer.",
             "game": "Mass Effect 3"
         },
         {
-            "quote": "Bring me a bucket, and I'll show you a bucket!",
-            "game": "Borderlands 2"
+            "quote": "Some trees flourish, others die. Some cattle grow strong, others are taken by wolves. Some men are born rich enough and dumb enough to enjoy their lives. Ain’t nothing fair.",
+            "game": "Red Dead Redemption"
         },
         {
-            "quote": "Wanting something does not give you the right to have it.",
-            "game": "Assassin’s Creed 2"
+            "quote": "I got caught up in the money, the power…I don’t give a s**t, oh f**k man…I had no choice, I had to do it…I only see the opportunity. But when I’m gone, everyone’s gonna remember my name: Big Smoke!",
+            "game": "Grand Theft Auto: San Andreas"
+        },
+        {
+            "quote": "I don’t need a weapon; my friends are my power!",
+            "game": "Kingdom Hearts"
+        },
+        {
+            "quote": "Even in dark times, we cannot relinquish the things that make us human.",
+            "game": "Khan, Metro 2033"
+        },
+        {
+            "quote": "I survived because the fire inside burned brighter than the fire around me.",
+            "game": " Joshua Graham"
+        },
+        {
+            "quote": "So, I guess I’d become what they wanted me to be, a killer. Some rent-a-clown with a gun who puts holes in other bad guys. Well, that’s what they had paid for, so in the end, that’s what they got. Say what you want about Americans, but we understand capitalism. You buy yourself a product and you get what you pay for, and these chumps had paid for some angry gringo without the sensibilities to know right from wrong. Here I was about to execute this poor bastard like some dime store angel of death, and I realized they were correct, I wouldn’t know right from wrong if one of them was helping the poor and the other was banging my sister…",
+            "game": "Max Payne 3"
         }
 
     ]
