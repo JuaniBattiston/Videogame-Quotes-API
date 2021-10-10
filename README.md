@@ -17,7 +17,7 @@ print(content["game"])  # 'Mortal Kombat'
 
 ## Testing the API endpoints
 Videogame Quotes API is now being hosted!
-Check the docs and test the endpoints [here](https://videogame-quotes-api.herokuapp.com/docs)
+Check the docs and test the endpoints [here](https://videogame-quotes-api.herokuapp.com/docs).
 
 ## Running the API locally
 
