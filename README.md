@@ -15,6 +15,10 @@ print(content["game"])  # 'Mortal Kombat'
 *(Find more ideas in
 [`/examples`](https://github.com/Batucho/Videogame-Quotes-API/tree/main/examples)!)*
 
+## Testing the API endpoints
+Videogame Quotes API is now being hosted!
+Check the docs and test the endpoints [here](https://videogame-quotes-api.herokuapp.com/docs)
+
 ## Running the API locally
 
 Note: Python 3.9 or higher is recommended.
