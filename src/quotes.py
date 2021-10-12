@@ -466,6 +466,87 @@ quote_dict = {
         {
             "quote": "It's cold and ominous around here. I feel something very evil calling out to me.",
             "game": "Terraria"
+        },
+                {
+            "quote": "Battles come and go, I am eternal.",
+            "game": "League of Legends"
+        },
+                {
+            "quote": "A hero need not speak, When he is gone, the world will speak for him.",
+            "game": "Halo 3"
+        },
+                {
+            "quote": "There is thin line between life and death, you will find me there.",
+            "game": "Apex Legends"
+        },
+        {
+            "quote": "Steel wins battles, Gold wins wars",
+            "game": " Davion"
+        },
+        {
+            "quote": "True grace is beautiful in its imperfection, honest in its emotion, freed by its on reality.",
+            "game": "League of Legends"
+        },
+                {
+            "quote": "If you have gun, you can rob a bank, But if you have a bank, you can rob anyone.",
+            "game": "Black Mask"
+        },
+                {
+            "quote": "Stand in the ashes of a trillion dead souls and ask the ghosts if honor still matters. The silence is your answer.",
+            "game": "Mass Effect Series"
+        },
+        {
+            "quote": "Progress, Demands, Sacrifice",
+            "game": "Uncharted Lost Legacy"
+        },
+        {
+            "quote": "If I cannot outsmart them, I will outfight them",
+            "game": "Dota 2"
+        },
+                {
+            "quote": "Nothing is more badass than treating woman with respect.",
+            "game": "Borderlands 2"
+        },
+                {
+            "quote": "The monster you have killed is returned to kill you.",
+            "game": "God of War"
+        },
+                {
+            "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+            "game": "Call of duty – Modern Warfare"
+        }
+        ,
+                {
+            "quote": "Keep friends close and enemies guessing.",
+            "game": "League of Legends"
+        },
+                {
+            "quote": "Losing is just an opportunity to shine brighter.",
+            "game": "Lux, League of Legends"
+        },
+                {
+            "quote": "I am man of fortune, and I must seek my fortune.",
+            "game": "A Thief’s End"
+        },
+                {
+            "quote": "The right man in the wrong place can make all the difference in the world.",
+            "game": "Half-Life 2"
+        },
+                {
+            "quote": "You gave them the one thing that was stolen from them. A chance. A chance to learn. To find love. To live. And in the end what was your reward? You never said. But I think I know: a family.",
+            "game": "Bioshock"
+        },
+                {
+            "quote": "You mustn’t allow yourself to be chained to fate, to be ruled by your genes. Human beings can choose the kind of life that they want to live. What’s important is that you choose life… and then live.",
+            "game": "Metal Gear Solid"
+        },
+                {
+            "quote": "Right and wrong are not what separate us and our enemies. It’s our different standpoints, our perspectives that separate us. Both sides blame one another. There’s no good or bad side. Just two sides holding different views.",
+            "game": "Final Fantasy VIII"
+        },
+                {
+            "quote": "I like shorts! They’re comfy and easy to wear!",
+            "game": "Pokemon"
         }
         
     ]
