@@ -547,7 +547,14 @@ quote_dict = {
                 {
             "quote": "I like shorts! They’re comfy and easy to wear!",
             "game": "Pokemon"
-        }
-        
+        },
+        {
+            "quote": "The harder you have to try, the more points you deserve!",
+            "game": "Oregon Trail"
+        },
+        {
+            "quote": "Courage need not be remembered, for it is never forgotten!",
+            "game": "The Legend Of Zelda: Breath Of The Wild"
+        },
     ]
 }
