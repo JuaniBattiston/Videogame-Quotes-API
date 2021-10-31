@@ -556,5 +556,13 @@ quote_dict = {
             "quote": "Courage need not be remembered, for it is never forgotten!",
             "game": "The Legend Of Zelda: Breath Of The Wild"
         },
+        { 
+            "quote": "If we continue down the same path as we have in the past, people may become tired of gaming.",
+            "game": "Satoru Iwata" 
+        }, 
+        { 
+            "quote": "Reality is broken. Game designers can fix it.",
+            "game": "Jane McGonigal"
+        },
     ]
 }
