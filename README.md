@@ -47,7 +47,7 @@ of this project claim no ownership or credit for the quotes listed.
 
 ## Sources
 
-Quotes have been retieved from the following sources:
+Quotes have been retrieved from the following sources:
 
 -
   [The Top 100 Video Game Quotes of All Time -  Bryan Wirtz](https://www.gamedesigning.org/gaming/video-game-quotes/)
