@@ -20,7 +20,7 @@ def home(request: Request) -> Dict:
     """API's homepage"""
     return {
         "API": "Videogame quotes API",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "author": "Batucho",
         "repository-url": "https://github.com/Batucho/Videogame-Quotes-API",
     }
